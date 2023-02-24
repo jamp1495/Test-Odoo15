@@ -7,7 +7,7 @@
             <field name="arch" type="xml">
                 <form string="Book">
                     <header>
-                        <!-- <button name="button_check_isbn" string="Check ISBN" type="object"/> -->
+                        <button name="button_check_isbn" string="Check ISBN" type="object"/>
                     </header>
                     <sheet>
                         <group name="group_top">
